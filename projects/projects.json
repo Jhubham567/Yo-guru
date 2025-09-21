@@ -1,7 +1,7 @@
 [
   {
     "title": "Yo guru app",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/2493596_icohome.png",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/2493596_icohome.png",
     "categories": ["main", "ongoing", "free"],
     "badges": [
       { "label": "Featured", "class": "main" },
@@ -12,12 +12,12 @@
     "updated": "Oct 25, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/Yo-guru/",
+    "source": "https://github.com/Shubhamnpk/yoguru/",
     "demo": "#"
   },
   {
     "title": "Yo news",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/yonews.png",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/yonews.png",
     "categories": ["ongoing", "free"],
     "badges": [
       { "label": "active", "class": "ongoing" },
@@ -33,7 +33,7 @@
   },
   {
     "title": "Yo QR",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/yoqr.png",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/yoqr.png",
     "categories": ["ongoing", "free"],
     "badges": [
       { "label": "active", "class": "ongoing" },
@@ -44,11 +44,11 @@
     "views": "N/A views",
     "forks": "N/A forks",
     "source": "",
-    "demo": "https://shubhamnpk.github.io/Yo-guru/projects/yoqr/"
+    "demo": "https://shubhamnpk.github.io/yoguru/projects/yoqr/"
   },
   {
     "title": "Yo Weather",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/yoweather.png",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/yoweather.png",
     "categories": ["ongoing", "free"],
     "badges": [
       { "label": "active", "class": "ongoing" },
@@ -58,12 +58,12 @@
     "updated": "Oct 27, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://shubhamnpk.github.io/Yo-guru/",
-    "demo": "https://shubhamnpk.github.io/Yo-guru/projects/yoweather/"
+    "source": "https://shubhamnpk.github.io/yoguru/",
+    "demo": "https://shubhamnpk.github.io/yoguru/projects/yoweather/"
   },
   {
     "title": "Yo Quote",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/Design%202.png",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/Design%202.png",
     "categories": ["ongoing", "free"],
     "badges": [
       { "label": "active", "class": "ongoing" },
@@ -73,12 +73,12 @@
     "updated": "Oct 25, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/Yo-guru/",
+    "source": "https://github.com/Shubhamnpk/yoguru/",
     "demo": "#"
   },
   {
     "title": "YO Note",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/yonote.png",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/yonote.png",
     "categories": ["ongoing", "free"],
     "badges": [
       { "label": "active", "class": "ongoing" },
@@ -89,12 +89,12 @@
     "updated": "Oct 30, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/Yo-guru/",
-    "demo": "https://shubhamnpk.github.io/Yo-guru/projects/yonote/"
+    "source": "https://github.com/Shubhamnpk/yoguru/",
+    "demo": "https://shubhamnpk.github.io/yoguru/projects/yonote/"
   },
   {
     "title": "yocomming soon page",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/yocp.png",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/yocp.png",
     "categories": ["ongoing", "free"],
     "badges": [
       { "label": "active", "class": "ongoing" },
@@ -104,12 +104,12 @@
     "updated": "Oct 25, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/Yo-guru/",
-    "demo": "https://shubhamnpk.github.io/Yo-guru/projects/commingsoon.html"
+    "source": "https://github.com/Shubhamnpk/yoguru/",
+    "demo": "https://shubhamnpk.github.io/yoguru/projects/commingsoon.html"
   },
   {
     "title": "Yo Live tv",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/yolivetvs.png",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/yolivetvs.png",
     "categories": ["upcomming", "free"],
     "badges": [
       { "label": "upcooming", "class": "upcomming" },
@@ -119,7 +119,21 @@
     "updated": "Oct 28, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/Yo-guru/",
-    "demo": "https://yotvnp.netlify.app/"
+    "source": "https://github.com/Shubhamnpk/Yotv",
+    "demo": "https://shubhamnpk.github.io/yotv"
+  },
+   {
+    "title": "Yo QR",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/yolivetvs.png",
+    "categories": ["upcomming", "free"],
+    "badges": [
+      { "label": "upcooming", "class": "upcomming" },
+      { "label": "free", "class": "free" }
+    ],
+    "description": "",
+    "views": "N/A views",
+    "forks": "N/A forks",
+    "source": "https://github.com/Shubhamnpk/yoqr",
+    "demo": "https://shubhamnpk.github.io/yoqr"
   }
 ]

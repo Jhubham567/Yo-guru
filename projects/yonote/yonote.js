@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!filteredNotes.length) {
             notesContainer.innerHTML = `
                 <div class="col-span-full text-center py-12">
-                    <img src="https://raw.githubusercontent.com/Shubhamnpk/Yo-guru/refs/heads/main/img/icons/nonote.png" alt="No notes" class="mx-auto w-48 mb-4">
+                    <img src="https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/nonote.png" alt="No notes" class="mx-auto w-48 mb-4">
                     <p class="text-gray-500 text-lg">No notes found create a new note</p>
                 </div>
             `;
