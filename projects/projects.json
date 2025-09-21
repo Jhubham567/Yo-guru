@@ -43,8 +43,8 @@
     "updated": "Oct 25, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "",
-    "demo": "https://shubhamnpk.github.io/yoguru/projects/yoqr/"
+    "source": "https://shubhamnpk.github.io/yoqr",
+    "demo": "https://shubhamnpk.github.io/yoqr"
   },
   {
     "title": "Yo Weather",
@@ -121,19 +121,5 @@
     "forks": "N/A forks",
     "source": "https://github.com/Shubhamnpk/Yotv",
     "demo": "https://shubhamnpk.github.io/yotv"
-  },
-   {
-    "title": "Yo QR",
-    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/yolivetvs.png",
-    "categories": ["upcomming", "free"],
-    "badges": [
-      { "label": "upcooming", "class": "upcomming" },
-      { "label": "free", "class": "free" }
-    ],
-    "description": "",
-    "views": "N/A views",
-    "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/yoqr",
-    "demo": "https://shubhamnpk.github.io/yoqr"
   }
 ]
