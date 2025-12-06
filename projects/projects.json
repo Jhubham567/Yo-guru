@@ -28,8 +28,8 @@
     "updated": "Oct 25, 2025",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/yo-news/",
-    "demo": "https://shubhamnpk.github.io/yo-news"
+    "source": "https://github.com/Shubhamnpk/yonews/",
+    "demo": "https://shubhamnpk.github.io/yonews/"
   },
   {
     "title": "Yo QR",
@@ -43,8 +43,8 @@
     "updated": "Oct 25, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://shubhamnpk.github.io/yoqr",
-    "demo": "https://shubhamnpk.github.io/yoqr"
+    "source": "https://github.com/Shubhamnpk/yoqr",
+    "demo": "https://shubhamnpk.github.io/yoqr/"
   },
   {
     "title": "Yo Weather",
@@ -58,7 +58,7 @@
     "updated": "Oct 27, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://shubhamnpk.github.io/yoguru/",
+    "source": "https://shubhamnpk.github.io/yoguru/projects/yoweather/",
     "demo": "https://shubhamnpk.github.io/yoguru/projects/yoweather/"
   },
   {
@@ -73,8 +73,8 @@
     "updated": "Oct 25, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/yoguru/",
-    "demo": "#"
+    "source": "https://github.com/Shubhamnpk/yoguru/projects/yoquote/",
+    "demo": "https://shubhamnpk.github.io/Yoguru/projects/yoquote/"
   },
   {
     "title": "YO Note",
@@ -89,8 +89,8 @@
     "updated": "Oct 30, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/yoguru/",
-    "demo": "https://shubhamnpk.github.io/yoguru/projects/yonote/"
+    "source": "https://github.com/Shubhamnpk/yoguru/projects/yonote/",
+    "demo": "https://shubhamnpk.github.io/Yoguru/projects/yonote/"
   },
   {
     "title": "yocomming soon page",
@@ -104,8 +104,8 @@
     "updated": "Oct 25, 2024",
     "views": "N/A views",
     "forks": "N/A forks",
-    "source": "https://github.com/Shubhamnpk/yoguru/",
-    "demo": "https://shubhamnpk.github.io/yoguru/projects/commingsoon.html"
+    "source": "https://github.com/Shubhamnpk/yoguru/projects/commingsoon",
+    "demo": "https://shubhamnpk.github.io/yoguru/projects/commingsoon"
   },
   {
     "title": "Yo Live tv",
@@ -121,5 +121,20 @@
     "forks": "N/A forks",
     "source": "https://github.com/Shubhamnpk/Yotv",
     "demo": "https://shubhamnpk.github.io/yotv"
+  },
+  {
+    "title": "Yo Music",
+    "image": "https://raw.githubusercontent.com/Shubhamnpk/yoguru/refs/heads/main/img/icons/unnamed.jpg",
+    "categories": ["ongoing", "free"],
+    "badges": [
+      { "label": "active", "class": "ongoing" },
+      { "label": "free", "class": "free" }
+    ],
+    "description": "An open-source music player project designed to provide a seamless and intuitive user experience for listening to music. With a sleek and modern interface, users can enjoy their favorite tunes effortlessly.",
+    "updated": "Dec 6, 2024",
+    "views": "N/A views",
+    "forks": "N/A forks",
+    "source": "https://github.com/Jhubham567/yomusic",
+    "demo": "https://theyomusic.vercel.app/"
   }
 ]

@@ -246,7 +246,7 @@ function renderPagination(totalPages, currentPage) {
   }
   let html = '<div class="flex justify-center gap-2 mt-8">';
   for (let i = 1; i <= totalPages; i++) {
-    html += `<button class="px-3 py-1 rounded-lg font-semibold ${i === currentPage ? 'bg-brand-primary text-white' : 'bg-white dark:bg-gray-800 text-brand-primary dark:text-brand-secondary'} shadow transition-all duration-200" data-page="${i}">${i}</button>`;
+    html += `<button type="button" class="px-3 py-1 rounded-lg font-semibold ${i === currentPage ? 'bg-brand-primary text-white' : 'bg-white dark:bg-gray-800 text-brand-primary dark:text-brand-secondary'} shadow transition-all duration-200" data-page="${i}">${i}</button>`;
   }
   html += '</div>';
   container.innerHTML = html;
